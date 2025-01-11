@@ -15,7 +15,7 @@ public:
 	using Ptr = std::shared_ptr<T>;
 
 	template <typename... Args>
-	static Ptr acquireObject(Args&&... args) {
+	static Ptr acquireObject(Args &&... args) {
 		std::lock_guard<std::mutex> lock(mutex_);
 		if (!pool_.empty()) {
 			T* obj = pool_.back();
