@@ -19,6 +19,7 @@ our [customized tools](https://docs.opentibiabr.com/opentibiabr/downloads/tools)
 * [Wiki](https://github.com/opentibiabr/canary/wiki).
 
 ## Support
+## By Mudassir Alam
 
 If you need help, please visit our [discord](https://discord.gg/gvTj5sh9Mp). Our issue tracker is not a support forum, and using it as one will result in your issue being closed.
 
