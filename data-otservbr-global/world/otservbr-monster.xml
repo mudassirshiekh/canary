@@ -4071,6 +4071,9 @@
 		<monster name="Cobra Assassin" x="0" y="-1" z="3" spawntime="60" />
 		<monster name="Cobra Assassin" x="0" y="1" z="3" spawntime="60" />
 	</monster>
+	<monster centerx="33392" centery="32660" centerz="3" radius="5">
+		<monster name="Guard Captain Quaid" x="-1" y="0" z="3" spawntime="60" />
+	</monster>
 	<monster centerx="33064" centery="32665" centerz="3" radius="3">
 		<monster name="Energy Elemental" x="2" y="1" z="3" spawntime="90" />
 		<monster name="Massive Energy Elemental" x="3" y="1" z="3" spawntime="90" />
@@ -6947,6 +6950,9 @@
 		<monster name="Cobra Vizier" x="2" y="-3" z="4" spawntime="60" />
 		<monster name="Cobra Scout" x="2" y="2" z="4" spawntime="60" />
 		<monster name="Cobra Vizier" x="-3" y="3" z="4" spawntime="60" />
+	</monster>
+	<monster centerx="33394" centery="32674" centerz="4" radius="5">
+		<monster name="Gaffir" x="1" y="-1" z="4" spawntime="60" />
 	</monster>
 	<monster centerx="32938" centery="32676" centerz="4" radius="1">
 		<monster name="Dawnfire Asura" x="1" y="-1" z="4" spawntime="90" />
@@ -68038,7 +68044,7 @@
 		<monster name="Thanatursus" x="-2" y="-3" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="32665" centery="32644" centerz="8" radius="3">
-		<monster name="Gazer Spectre" x="-2" y="1" z="8" spawntime="60" />
+		<monster name="Gazer Spectre" x="-3" y="1" z="8" spawntime="60" />
 		<monster name="Gazer Spectre" x="3" y="1" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="33435" centery="32644" centerz="8" radius="3">
@@ -71856,6 +71862,9 @@
 	</monster>
 	<monster centerx="32080" centery="32825" centerz="8" radius="1">
 		<monster name="Bonelord" x="0" y="0" z="8" spawntime="90" />
+	</monster>
+	<monster centerx="33375" centery="32825" centerz="8" radius="5">
+		<monster name="Custodian" x="2" y="0" z="8" spawntime="60" />
 	</monster>
 	<monster centerx="32084" centery="32826" centerz="8" radius="3">
 		<monster name="Bonelord" x="-3" y="-3" z="8" spawntime="90" />
